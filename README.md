@@ -1,1 +1,1 @@
-这是一个由python编辑而成的系统，基于Pgszero
+这是一个由python编辑而成的模拟系统，基于Pgszero
